@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sriinu12/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Matrix
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sriinu12/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
 | [3321-type-of-triangle](https://github.com/sriinu12/Leetcode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/sriinu12/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
