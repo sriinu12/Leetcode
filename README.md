@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sriinu12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/sriinu12/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriinu12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/sriinu12/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sriinu12/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
