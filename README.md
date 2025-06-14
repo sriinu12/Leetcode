@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sriinu12/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sriinu12/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sriinu12/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sriinu12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/sriinu12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sriinu12/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sriinu12/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sriinu12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sriinu12/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sriinu12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriinu12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sriinu12/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sriinu12/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sriinu12/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sriinu12/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
