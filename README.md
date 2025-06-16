@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sriinu12/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sriinu12/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3321-type-of-triangle](https://github.com/sriinu12/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/sriinu12/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sriinu12/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
