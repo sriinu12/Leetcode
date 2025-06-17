@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sriinu12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sriinu12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sriinu12/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/sriinu12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sriinu12/Leetcode/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sriinu12/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/sriinu12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sriinu12/Leetcode/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [3321-type-of-triangle](https://github.com/sriinu12/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/sriinu12/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
+| [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sriinu12/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sriinu12/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Matrix
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/sriinu12/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sriinu12/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sriinu12/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sriinu12/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
