@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sriinu12/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sriinu12/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriinu12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/sriinu12/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sriinu12/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -285,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sriinu12/Leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/sriinu12/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
