@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sriinu12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sriinu12/Leetcode/tree/master/0229-majority-element-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sriinu12/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sriinu12/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sriinu12/Leetcode/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sriinu12/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sriinu12/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sriinu12/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sriinu12/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriinu12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/sriinu12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sriinu12/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriinu12/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sriinu12/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sriinu12/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sriinu12/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sriinu12/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sriinu12/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -303,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sriinu12/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/sriinu12/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sriinu12/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
