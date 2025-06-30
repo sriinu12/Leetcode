@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sriinu12/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sriinu12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sriinu12/Leetcode/tree/master/0493-reverse-pairs) |
+| [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sriinu12/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sriinu12/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sriinu12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sriinu12/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sriinu12/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sriinu12/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sriinu12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sriinu12/Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sriinu12/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sriinu12/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sriinu12/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sriinu12/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sriinu12/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sriinu12/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriinu12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
