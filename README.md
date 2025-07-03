@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sriinu12/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sriinu12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sriinu12/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sriinu12/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/sriinu12/Leetcode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sriinu12/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sriinu12/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriinu12/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
