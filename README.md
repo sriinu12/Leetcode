@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriinu12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sriinu12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sriinu12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sriinu12/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sriinu12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/sriinu12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sriinu12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
