@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sriinu12/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sriinu12/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriinu12/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sriinu12/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sriinu12/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sriinu12/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriinu12/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
 |  |
 | ------- |
