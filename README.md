@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/sriinu12/Leetcode/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sriinu12/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sriinu12/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sriinu12/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sriinu12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/sriinu12/Leetcode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/sriinu12/Leetcode/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sriinu12/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sriinu12/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sriinu12/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
