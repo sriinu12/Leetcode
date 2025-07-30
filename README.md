@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/sriinu12/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sriinu12/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sriinu12/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sriinu12/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sriinu12/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sriinu12/Leetcode/tree/master/3321-type-of-triangle) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sriinu12/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sriinu12/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sriinu12/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sriinu12/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sriinu12/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sriinu12/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sriinu12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sriinu12/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sriinu12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sriinu12/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
