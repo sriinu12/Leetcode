@@ -1,32 +1,30 @@
 # Definition for a binary tree node.
 # class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+    # def __init__(self, val=0, left=None, right=None):
+
+    #     self.val = val
+    #     self.left = left
+    #     self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        result = []
-        curr = root
+        """
+        Return inorder traversal of a binary tree's nodes' values.
+        Uses an explicit stack to simulate recursion.
+        """
+        result: List[int] = []
+        stack: List[TreeNode] = []
+        curr: Optional[TreeNode] = root
 
-        while curr:
-            if not curr.left:
-                result.append(curr.val)
-                curr = curr.right
-            else:
-                # find predecessor
-                pred = curr.left
-                while pred.right and pred.right is not curr:
-                    pred = pred.right
-                if not pred.right:
-                    # link back to curr
-                    pred.right = curr
-                    curr = curr.left
-                else:
-                    # second visit: restore tree and visit
-                    pred.right = None
-                    result.append(curr.val)
-                    curr = curr.right
+        while curr or stack:
+            # Go as far left as possible
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            # Process node
+            curr = stack.pop()
+            result.append(curr.val)
+            # Then explore its right subtree
+            curr = curr.right
 
         return result
         
