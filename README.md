@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sriinu12/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/sriinu12/Leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriinu12/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sriinu12/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sriinu12/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sriinu12/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sriinu12/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sriinu12/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/sriinu12/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sriinu12/Leetcode/tree/master/0455-assign-cookies) |
+| [1448-maximum-69-number](https://github.com/sriinu12/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sriinu12/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sriinu12/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sriinu12/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
