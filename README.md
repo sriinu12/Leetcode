@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sriinu12/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/sriinu12/Leetcode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sriinu12/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sriinu12/Leetcode/tree/master/1036-rotting-oranges) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sriinu12/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sriinu12/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sriinu12/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/sriinu12/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sriinu12/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sriinu12/Leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriinu12/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sriinu12/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sriinu12/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sriinu12/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/sriinu12/Leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sriinu12/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sriinu12/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Quickselect
