@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sriinu12/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sriinu12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sriinu12/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/sriinu12/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sriinu12/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriinu12/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sriinu12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sriinu12/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sriinu12/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sriinu12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sriinu12/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sriinu12/Leetcode/tree/master/0287-find-the-duplicate-number) |
