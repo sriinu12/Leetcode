@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sriinu12/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sriinu12/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/sriinu12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sriinu12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sriinu12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sriinu12/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/sriinu12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sriinu12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/sriinu12/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sriinu12/Leetcode/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriinu12/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/sriinu12/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
