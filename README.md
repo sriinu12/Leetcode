@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sriinu12/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sriinu12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sriinu12/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sriinu12/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sriinu12/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sriinu12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sriinu12/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sriinu12/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sriinu12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sriinu12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sriinu12/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sriinu12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sriinu12/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sriinu12/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sriinu12/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sriinu12/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sriinu12/Leetcode/tree/master/0062-unique-paths) |
