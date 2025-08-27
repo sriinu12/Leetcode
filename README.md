@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sriinu12/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sriinu12/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sriinu12/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sriinu12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sriinu12/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sriinu12/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sriinu12/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sriinu12/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/sriinu12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sriinu12/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sriinu12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sriinu12/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sriinu12/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sriinu12/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sriinu12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sriinu12/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriinu12/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sriinu12/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/sriinu12/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sriinu12/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
