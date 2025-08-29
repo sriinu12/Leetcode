@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sriinu12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sriinu12/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sriinu12/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sriinu12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/sriinu12/Leetcode/tree/master/0679-24-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sriinu12/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sriinu12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sriinu12/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sriinu12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sriinu12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sriinu12/Leetcode/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sriinu12/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sriinu12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sriinu12/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/sriinu12/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sriinu12/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
